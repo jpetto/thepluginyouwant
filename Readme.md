@@ -1,9 +1,11 @@
 # The Plugin You Want
 ## The best* plugins for web development.
 
-Of course, everything has its drawbacks. This list is meant to be what you *probably* want.
+Of course, everything has its drawbacks/limitations. This list is meant to be what you *probably* want.
 
-Suggestions are critical. Found a better tooltip plugin? Make a pull request.
+Each category should have a maximum of two options. You know how to google if you need something different.
+
+Suggestions are critical. I doubt it's anyone's job to stay up to date on every latest plugin. Found something new/better? Help the next developer. Make a pull request.
 
 ### Lightbox
 
