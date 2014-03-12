@@ -1,11 +1,21 @@
 # The Plugin You Want
 ## The best* plugins for web development.
 
-Of course, everything has its drawbacks/limitations. This list is meant to be what you *probably* want.
+You know that thing that happens every 7 months where you need a tooltip or
+modal plugin and you go to Google and have to wade through tons of outdated
+junk? That sucks. Wouldn't it be better to have a curated, updated list to
+check before you venture out into the unwashed masses of search results?
 
-Each category should have a maximum of two options. You know how to google if you need something different.
+Of course, all plugins have their drawbacks/limitations. This list is
+meant to be what you *probably* want.
 
-Suggestions are critical. I doubt it's anyone's job to stay up to date on every latest plugin. Found something new/better? Help the next developer. Make a pull request.
+Each category should have a maximum of two options. The idea here is to
+grab and go without being presented with too many options. Google is always
+there if you need something different.
+
+Contributions are critical. I doubt it's anyone's job to stay up to date on
+every latest plugin. Found something new/better? Help the next developer.
+Make a pull request.
 
 ### Lightbox
 
