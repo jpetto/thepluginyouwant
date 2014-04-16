@@ -26,6 +26,10 @@ Make a pull request.
 
 1. [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/)
 
+### Progress Bars
+
+1. [ProgressJS](http://usablica.github.io/progress.js/)
+
 ### Responsive Images
 
 1. [PictureFill](https://github.com/scottjehl/picturefill)
