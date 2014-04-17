@@ -17,6 +17,10 @@ Contributions are critical. I doubt it's anyone's job to stay up to date on
 every latest plugin. Found something new/better? Help the next developer.
 Make a pull request.
 
+### Icon Fonts
+1. [Font Awesome](http://fortawesome.github.io/Font-Awesome)
+2. [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3) 
+
 ### Lightbox
 
 1. [ImageLightbox](http://osvaldas.info/image-lightbox-responsive-touch-friendly)
