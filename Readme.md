@@ -38,6 +38,11 @@ Make a pull request.
 
 1. [FitText](http://fittextjs.com/)
 
+### Responsive Videos
+
+1. [FluidVids](http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js/)
+2. [FitVids](http://fitvidsjs.com/)
+
 ### Tooltips
 
 1. [Tooltipster](http://iamceege.github.io/tooltipster/)
