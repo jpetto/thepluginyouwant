@@ -17,7 +17,12 @@ Contributions are critical. I doubt it's anyone's job to stay up to date on
 every latest plugin. Found something new/better? Help the next developer.
 Make a pull request.
 
+### Audio
+
+1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) (Note: no personal experience - would love other recommendations)
+
 ### Icon Fonts
+
 1. [Font Awesome](http://fortawesome.github.io/Font-Awesome)
 2. [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3) 
 
