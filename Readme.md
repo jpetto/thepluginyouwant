@@ -17,6 +17,10 @@ Contributions are critical. I doubt it's anyone's job to stay up to date on
 every latest plugin. Found something new/better? Help the next developer.
 Make a pull request.
 
+### Icon Fonts
+1. [Font Awesome](http://fortawesome.github.io/Font-Awesome)
+2. [Foundation Icon Fonts](http://zurb.com/playground/foundation-icon-fonts-3) 
+
 ### Lightbox
 
 1. [ImageLightbox](http://osvaldas.info/image-lightbox-responsive-touch-friendly)
@@ -37,6 +41,11 @@ Make a pull request.
 ### Responsive Text/Type
 
 1. [FitText](http://fittextjs.com/)
+
+### Responsive Videos
+
+1. [FluidVids](http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js/)
+2. [FitVids](http://fitvidsjs.com/)
 
 ### Tooltips
 
