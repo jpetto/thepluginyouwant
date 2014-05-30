@@ -21,6 +21,10 @@ Make a pull request.
 
 1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) (Note: no personal experience - would love other recommendations)
 
+### Drag/Drop
+
+1. [Draggabilly](http://draggabilly.desandro.com/)
+
 ### Icon Fonts
 
 1. [Font Awesome](http://fortawesome.github.io/Font-Awesome)
