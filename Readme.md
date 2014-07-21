@@ -56,6 +56,10 @@ Make a pull request.
 1. [FluidVids](http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js/)
 2. [FitVids](http://fitvidsjs.com/)
 
+### Scroll effects
+
+1. [ScrollMe](http://scrollme.nckprsn.com/) - Not parallax. Nice & subtle effects.
+
 ### Tooltips
 
 1. [Tooltipster](http://iamceege.github.io/tooltipster/)
