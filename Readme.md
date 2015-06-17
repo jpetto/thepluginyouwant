@@ -19,9 +19,9 @@ Make a pull request.
 
 ### Audio
 
-1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) (Note: no personal experience - would love other recommendations)
+1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
 
-### Drag/Drop
+### Drag / Drop
 
 1. [Draggabilly](http://draggabilly.desandro.com/)
 
@@ -37,7 +37,11 @@ Make a pull request.
 
 ### Modal Windows
 
-1. [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/)
+1. [Remodal](http://vodkabears.github.io/remodal/)
+2. [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/)
+
+### Parallax
+1. [Parallax.js](http://matthew.wagerfield.com/parallax/)
 
 ### Progress Bars
 
@@ -47,7 +51,12 @@ Make a pull request.
 
 1. [PictureFill](https://github.com/scottjehl/picturefill)
 
-### Responsive Text/Type
+### Responsive Sliders
+
+1. [bxSlider](http://bxslider.com/)
+2. [FlexSlider](http://www.woothemes.com/flexslider/)
+
+### Responsive Type
 
 1. [FitText](http://fittextjs.com/)
 
@@ -56,9 +65,10 @@ Make a pull request.
 1. [FluidVids](http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js/)
 2. [FitVids](http://fitvidsjs.com/)
 
-### Scroll effects
+### Scroll Effects
 
-1. [ScrollMe](http://scrollme.nckprsn.com/) - Not parallax. Nice & subtle effects.
+1. [scrollReveal](http://scrollrevealjs.org/)
+2. [ScrollMe](http://scrollme.nckprsn.com/)
 
 ### Tooltips
 
