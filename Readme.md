@@ -19,7 +19,7 @@ Make a pull request.
 
 ### Audio
 
-1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) (Note: no personal experience - would love other recommendations)
+1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
 
 ### Drag/Drop
 
@@ -37,7 +37,11 @@ Make a pull request.
 
 ### Modal Windows
 
-1. [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/)
+1. [Remodal](http://vodkabears.github.io/remodal/)
+2. [Avgrund Modal](http://labs.voronianski.com/jquery.avgrund.js/)
+
+### Parallax
+1. [Parallax.js](http://matthew.wagerfield.com/parallax/)
 
 ### Progress Bars
 
@@ -46,6 +50,11 @@ Make a pull request.
 ### Responsive Images
 
 1. [PictureFill](https://github.com/scottjehl/picturefill)
+
+### Responsive Sliders
+
+1. [bxSlider](http://bxslider.com/)
+2. [FlexSlider](http://www.woothemes.com/flexslider/)
 
 ### Responsive Text/Type
 
