@@ -67,7 +67,8 @@ Make a pull request.
 
 ### Scroll Effects
 
-1. [ScrollMe](http://scrollme.nckprsn.com/) - Not parallax. Nice & subtle effects.
+1. [scrollReveal](http://scrollrevealjs.org/)
+2. [ScrollMe](http://scrollme.nckprsn.com/)
 
 ### Tooltips
 
