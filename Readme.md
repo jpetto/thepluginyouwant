@@ -21,7 +21,7 @@ Make a pull request.
 
 1. [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
 
-### Drag/Drop
+### Drag / Drop
 
 1. [Draggabilly](http://draggabilly.desandro.com/)
 
@@ -56,7 +56,7 @@ Make a pull request.
 1. [bxSlider](http://bxslider.com/)
 2. [FlexSlider](http://www.woothemes.com/flexslider/)
 
-### Responsive Text/Type
+### Responsive Type
 
 1. [FitText](http://fittextjs.com/)
 
@@ -65,7 +65,7 @@ Make a pull request.
 1. [FluidVids](http://toddmotto.com/fluid-and-responsive-youtube-and-vimeo-videos-with-fluidvids-js/)
 2. [FitVids](http://fitvidsjs.com/)
 
-### Scroll effects
+### Scroll Effects
 
 1. [ScrollMe](http://scrollme.nckprsn.com/) - Not parallax. Nice & subtle effects.
 
